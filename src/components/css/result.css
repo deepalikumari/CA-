@@ -1,0 +1,44 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+}
+#per{
+    margin-top: 5vh;
+    font-size: 40px;
+    color: #f00bc6;
+    font-weight: 900;
+}
+#cmnt{
+    color: rgb(87, 2, 57);
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.res{
+    text-align: center;
+    width: 50vw;
+    height: 40vh;
+    box-shadow: rgba(0, 255, 187, 0.25) 0px 54px 55px,
+    rgba(127, 0, 255, 0.25) 0px -12px 30px, rgba(71, 166, 181, 0.12) 0px 4px 6px,
+    rgba(127, 0, 255, 0.25) 0px 12px 13px, rgba(127, 0, 255, 0.09) 0px -3px 5px;
+    margin-top: 18vh;
+}
+
+
+.content{
+    color: #9559d1;
+}
+
+.RBtn{
+    background-color: transparent;
+    border: 2px solid #5adbf5;
+    border-radius: 20px;
+    padding: 10px;
+    width: 13vw;
+    cursor: pointer;
+    margin-top: 10vh;
+    color: #7f00ff;
+  }

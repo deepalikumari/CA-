@@ -1,0 +1,16 @@
+.btn {  
+    background-color: transparent;
+    margin-right: 30px;
+    cursor: pointer;   
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0.5%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    overflow: hidden;
+
+}
+
